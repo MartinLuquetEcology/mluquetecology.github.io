@@ -4,6 +4,7 @@ project:
   
 website:
   title: "Yaaay this is my website"
+  site-url: https://martinluquetecology.github.io/
   
   navbar:
     left:
