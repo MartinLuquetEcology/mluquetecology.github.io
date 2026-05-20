@@ -9,10 +9,15 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: about.qmd
+      - href: content/about.qmd
         text: About
-      - href: resources.qmd
+      - href: content/projects.qmd
+        text: Projects
+      - href: content/blog.qmd
+        text: Blog
+      - href: content/resources.qmd
         text: Resources
+
         
     right:
       - icon: github

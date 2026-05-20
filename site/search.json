@@ -1,51 +1,58 @@
 [
   {
-    "objectID": "resources.html",
-    "href": "resources.html",
-    "title": "Resources",
-    "section": "",
-    "text": "I guess these are the resources."
-  },
-  {
-    "objectID": "resources.html#resources",
-    "href": "resources.html#resources",
-    "title": "Resources",
-    "section": "",
-    "text": "I guess these are the resources."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Blablabla"
-  },
-  {
-    "objectID": "about.html#about-this-website",
-    "href": "about.html#about-this-website",
-    "title": "About",
-    "section": "",
-    "text": "Blablabla"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome to my Nightmare",
+    "title": "Martin Luquet tentative website",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+    "text": "This is my attempt to create my website using Quarto. I created this thanks to Cecilia Baldoni in a SORTEE workshop. Thank you Cecilia!\nFor now it’s shitty. First, I’d like to change the URL but I don’t know how. It’s already published though haha.\nI aim at using this as a place of expression. Not just as a resume or something. I don’t want to oversell myself or anything of that kind. I’m not really into the career stuff anyway, but I’d like to use this to express my doubts about the whole scientific research entreprise, my insecurities, also provide a list of my publications but pinpoint their limits.\nThere may be a blog too!"
   },
   {
-    "objectID": "index.html#quarto",
-    "href": "index.html#quarto",
-    "title": "Welcome to my Nightmare",
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Martin Luquet tentative website",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+    "text": "This is my attempt to create my website using Quarto. I created this thanks to Cecilia Baldoni in a SORTEE workshop. Thank you Cecilia!\nFor now it’s shitty. First, I’d like to change the URL but I don’t know how. It’s already published though haha.\nI aim at using this as a place of expression. Not just as a resume or something. I don’t want to oversell myself or anything of that kind. I’m not really into the career stuff anyway, but I’d like to use this to express my doubts about the whole scientific research entreprise, my insecurities, also provide a list of my publications but pinpoint their limits.\nThere may be a blog too!"
   },
   {
-    "objectID": "index.html#running-code",
-    "href": "index.html#running-code",
-    "title": "Welcome to my Nightmare",
-    "section": "Running Code",
-    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+    "objectID": "content/projects.html",
+    "href": "content/projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Ok here I’d like to do something a bit like Cecilia: https://cecibaldoni.github.io/content/project.html.\nWith the list of publications as a tab.\nAlso I’ll put my CV there I guess."
+  },
+  {
+    "objectID": "content/about.html",
+    "href": "content/about.html",
+    "title": "About",
+    "section": "",
+    "text": "Blablabla"
+  },
+  {
+    "objectID": "content/about.html#about-this-website",
+    "href": "content/about.html#about-this-website",
+    "title": "About",
+    "section": "",
+    "text": "Blablabla"
+  },
+  {
+    "objectID": "content/blog.html",
+    "href": "content/blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Yep maybe I’ll do a blog! I’ll also talk about art & culture, and other stuff, whatever I want to, and honestly it’s OK if you’re not interested there’s already so many people telling their lives on the Internet ’"
+  },
+  {
+    "objectID": "content/resources.html",
+    "href": "content/resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "I guess these are the resources."
+  },
+  {
+    "objectID": "content/resources.html#resources",
+    "href": "content/resources.html#resources",
+    "title": "Resources",
+    "section": "",
+    "text": "I guess these are the resources."
   }
 ]
