@@ -1,19 +1,27 @@
 ---
-title: "Untitled"
+title: ""
 ---
 
 ## Insect food in agroecosystems
 
-[![*Aphidius ervi* feeding on *Vicia faba* extrafloral nectary.](/img/artzai_aphidius.jpg)](https://www.instagram.com/artzaiphoto/)
+[![Aphidius ervi feeding on Vicia faba extrafloral nectary.](/img/artzai_aphidius.jpg)](https://www.instagram.com/artzaiphoto/)
 
-- So-called insect 'pests' are top-down regulated by other insects in agroecosystems - predators like ladybirds, and parasitoids. So in a way, they are our natural insecticides. That's cool and all, but as you guess, it's not that simple: we can't just count of them to secure our food production. Is there a way to boost/stabilise the populations of these natural regulators? Maybe we can try to design our agroecosystems to provide them with the adequate resources. For instance, parasitoids need carbs as fuel. So can we bring them additional sugar sources to help them 'perform'? Are they actually sugar-limited at all[^1]? Though it may seem like simple questions, it's not.
-
-- The literature is still not clear about this. And the studies we carried out with my colleagues from France, Spain and Chile also provide mitigated results - check below to know more. But they also highlight that these are actually difficult questions to answer - as is often the case in ecology, really.
+- So-called 'pests' are top-down regulated by other insects in agroecosystems - predators and parasitoids. So in a way, the latter are our natural insecticides. That's cool and all, but as you guess, it's not that simple. We cannot just say *hey, parasitoids and ladybirds will secure our food production, we're good*. Is there a way to boost or stabilise the populations of these natural regulators? Maybe we can try to design our agroecosystems to provide them with the adequate resources - *e.g.* **carbs**, their main fuel. Can we **bring them additional sugar sources** to help them 'perform'? **Are they actually sugar-limited** at all[^1]? Though these may seem like simple questions, these are not.
+  - This question occupied me a lot, during my PhD and after. Still working on it a little bit, but I try to put this aside because I have too much going on in my brain (more on this topic soon).
+  - So what are the answers? The literature is not clear about this. And if you check below, you'll see that the studies we carried out with colleagues from France, Spain and Chile also provide mitigated results. But they also highlight that these are actually difficult questions to answer - as is often the case in ecology, really.
 
 [^1]: Yep, we as humans seem to be obsessed with protein right now, but the parasitoid literature is actually obsessed with carbs, for a change\^\^ (just give them the Snickers!)
 
 ## Publications
 
+- Later
+
 ## My thoughts on the topic today
 
-## People I worked with
+- Hard to answer. I liked that this topic helped me embrace the complexity of ecology though. From reflexions on experiments to attempts to generalise (meta-analysis).
+
+- I must admit that today I’m a bit fed up with all the productivity-focused rhetoric surrounding these issues (performance, etc.). I still get the strong impression that what’s needed is a change in our production model, not more research into ecological micro-mechanisms. And frankly, I get the feeling that, deep down, we all know it. Mind you, I’m not saying: it’s important to secure food production; it’s easy to forget that when you’ve got enough to eat.
+
+- I’m not saying that research is completely useless either. But I do sometimes get the impression that we often try to force our research questions (which are sometimes fundamental) to fit with agronomic issues (which are much more applied and not necessarily focused on ecological mechanisms, but rather on the effects on yield), in a way that’s often artificial and unsatisfactory. Don’t you think that produces rather rubbish stuff that’s not much use? Maybe I’ll try and write about that one of these days.
+
+## People I work(ed) with

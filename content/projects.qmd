@@ -8,16 +8,27 @@ Ok here I'd like to do something [a bit like Cecilia](https://cecibaldoni.github
 
 ### Wolves and ungulates
 
-- My current project. How do wild mammals respond when extirpated predators are coming back? Well, maybe not that much. At least, not in most current European ecosystems, that are so shaped by humans. Focusing on two emblematic species: the chamois (one of our Alpine moutain "goats") and the gray wolf.
+My current project at [LECA](https://leca.osug.fr/). How do wild mammals respond when extirpated predators are coming back? Well, maybe not that much. At least, not in most current European ecosystems, that are so shaped by humans. Click on the beautiful chamois below to know more.
 
-  [![A chamois (Rupicapra rupicapra)](/img/chamois_tristan.png)](https://www.instagram.com/p/Cll-5glKXDg/)
+```{=html}
 
-  - This is a [chamois](https://en.wikipedia.org/wiki/Chamois), by the way (*Rupicapra rupicapra*, note that it's actually not a goat, contrary to the alpine ibex). This picture was taken by Tristan Mary, a colleague of mine: check his [Instagram page](https://www.instagram.com/p/Cll-5glKXDg/), his pictures are cool.
-  - I'm quite interested about methodological questions about these kind of topics: habitat selection, activity pattern analysis, etc. May write a bit about this one of these days.
+<figure>
+<a href="projects/chamois.html">
+  <img src="/img/chamois_tristan.png"
+       alt="A chamois."
+       style="max-width: 500px; width: 100%;">
+</a>
+
+<figcaption style="color: gray; font-style: normal;">
+    This is a <a href="https://en.wikipedia.org/wiki/Chamois"> chamois </a>, one of our alpine "goats" which is actually not a goat (contrary to the ibex). This picture was taken by Tristan Mary, a colleague of mine: check his <a href="https://www.instagram.com/p/Cll-5glKXDg/">[Instagram page]</a>, his pictures are cool.
+  </figcaption>
+</figure>
+
+```
 
 ### Insect food in agroecosystems
 
-- So-called insect 'pests' are top-down regulated by other insects in agroecosystems - predators like ladybirds, and parasitoids. So in a way, they are our natural insecticides. That's cool and all, but as you guess, it's not that simple: we can't just count of them to secure our food production. Is there a way to boost/stabilise the populations of these natural regulators? Maybe we can try to design our agroecosystems to provide them with the adequate resources. For instance, parasitoids need carbs as fuel. So can we bring them additional sugar sources to help them 'perform'? Are they actually sugar-limited at all? Though it may seem like simple questions, it's not. Click on the cute parasitoid below to know more ;)
+So-called 'pests' are regulated by other insects in agroecosystems - predators like ladybirds, and parasitoids. So in a way, the latter are our natural insecticides. That's cool and all, but as you guess, we can't leave them the burden of securing our food without giving them a hand. Is there a way to boost/stabilise the populations of these natural regulators? Maybe we can try to design our agroecosystems to provide them with the adequate resources - carbs, their main fuel. So can we bring  additional sugar sources to help them 'perform'? Are they actually sugar-limited at all? Though it may seem like simple questions, it's not. Click on the cute parasitoid below to know more ;)
 
 ```{=html}
 
