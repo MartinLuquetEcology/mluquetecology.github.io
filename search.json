@@ -16,7 +16,14 @@
   {
     "objectID": "content/projects.html",
     "href": "content/projects.html",
-    "title": "Projects",
+    "title": "Martin Luquet",
+    "section": "",
+    "text": "Ok here I’d like to do something a bit like Cecilia: https://cecibaldoni.github.io/content/project.html.\nWith the list of publications as a tab.\nAlso I’ll put my CV there I guess."
+  },
+  {
+    "objectID": "content/projects.html#projects",
+    "href": "content/projects.html#projects",
+    "title": "Martin Luquet",
     "section": "",
     "text": "Ok here I’d like to do something a bit like Cecilia: https://cecibaldoni.github.io/content/project.html.\nWith the list of publications as a tab.\nAlso I’ll put my CV there I guess."
   },
@@ -25,33 +32,40 @@
     "href": "content/about.html",
     "title": "Martin Luquet",
     "section": "",
-    "text": "Blablabla"
+    "text": "Blablabla 2"
   },
   {
     "objectID": "content/about.html#about-this-website",
     "href": "content/about.html#about-this-website",
     "title": "Martin Luquet",
     "section": "",
-    "text": "Blablabla"
+    "text": "Blablabla 2"
   },
   {
     "objectID": "content/blog.html",
     "href": "content/blog.html",
-    "title": "Blog",
+    "title": "Martin Luquet",
+    "section": "",
+    "text": "Yep maybe I’ll do a blog! I’ll also talk about art & culture, and other stuff, whatever I want to, and honestly it’s OK if you’re not interested there’s already so many people telling their lives on the Internet ’"
+  },
+  {
+    "objectID": "content/blog.html#blog",
+    "href": "content/blog.html#blog",
+    "title": "Martin Luquet",
     "section": "",
     "text": "Yep maybe I’ll do a blog! I’ll also talk about art & culture, and other stuff, whatever I want to, and honestly it’s OK if you’re not interested there’s already so many people telling their lives on the Internet ’"
   },
   {
     "objectID": "content/resources.html",
     "href": "content/resources.html",
-    "title": "Resources",
+    "title": "Martin Luquet",
     "section": "",
     "text": "I guess these are the resources."
   },
   {
     "objectID": "content/resources.html#resources",
     "href": "content/resources.html#resources",
-    "title": "Resources",
+    "title": "Martin Luquet",
     "section": "",
     "text": "I guess these are the resources."
   }
