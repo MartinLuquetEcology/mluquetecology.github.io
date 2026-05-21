@@ -1,9 +1,40 @@
 ---
-title: "Projects"
+title: ""
 ---
 
-Ok here I'd like to do something a bit like Cecilia: https://cecibaldoni.github.io/content/project.html.
+## Projects
 
-With the list of publications as a tab.
+Ok here I'd like to do something [a bit like Cecilia](https://cecibaldoni.github.io/content/project.html). With the list of publications as a tab. Also I'll put my CV there I guess. But for now let's do something less fancy.
 
-Also I'll put my CV there I guess.
+### Wolves and ungulates
+
+- My current project. How do wild mammals respond when extirpated predators are coming back? Well, maybe not that much. At least, not in most current European ecosystems, that are so shaped by humans. Focusing on two emblematic species: the chamois (one of our Alpine moutain "goats") and wolves.
+
+  [![A chamois (Rupicapra rupicapra)](/img/chamois_tristan.png)](https://www.instagram.com/p/Cll-5glKXDg/)
+
+  - This is a [chamois](https://en.wikipedia.org/wiki/Chamois), by the way (*Rupicapra rupicapra*, note that it's actually not a goat, contrary to the alpine ibex). This picture was taken by Tristan Mary, a colleague of mine: check his [Instagram page](https://www.instagram.com/p/Cll-5glKXDg/), his pictures are cool.
+  - I'm quite interested about methodological questions about these kind of topics: habitat selection, activity pattern analysis, etc. May write a bit about this one of these days.
+
+### Insect food in agroecosystems
+
+- Insect so-called 'pests' are top-down regulated by other insects in agroecosystems - predators like ladybirds, and parasitoids. So in a way, they are our natural insecticides. That's cool and all, but as you guess, it's not that simple: we can't just count of them to secure our food production. Is there a way to boost/stabilise the populations of these natural regulators? Maybe we can try to design our agroecosystems to provide them with the adequate resources. For instance, parasitoids need carbs as fuel. So can we bring them additional sugar sources to help them 'perform'? Are they actually sugar-limited at all[^1]? Though it may seem like simple questions, it's not. The literature is still not clear about this. The studies we carried out with my colleagues from France, Spain and Chile also provide mitigated results. But they also highlight that these are actually difficult questions to answer - as is often the case in ecology, really.
+
+  - Below, you can find a parasitoid feeding: this is *Aphidius ervi* ([a parasitoid of aphids](https://en.wikipedia.org/wiki/Aphidius_ervi)) feeding on the nectary of a faba bean. This beautiful picture was taken by [Artzai Jauregui](https://www.instagram.com/artzaiphoto/). Yes, I am lucky enough to work with many talented photographers.
+
+  [![Aphidius ervi feeding on Vicia faba extrafloral nectary](/img/artzai_aphidius.jpg)](https://www.instagram.com/artzaiphoto/)
+
+  - This question occupied me a lot, during my PhD and after - although I try to put this aside because I have too much going on in my brain.
+
+  - Also, I’m a bit fed up with all the productivity-focused rhetoric surrounding these issues (performance, etc.). I still get the strong impression that what’s needed is a change in the production model, not more research into ecological micro-mechanisms. And frankly, I get the feeling that, deep down, we all know it. Mind you, I’m not saying: it’s important to secure food production; it’s easy to forget that when you’ve got enough to eat.
+
+  - I’m not saying that research is completely useless either. But I do sometimes get the impression that we often try to force our research questions (which are sometimes fundamental) to fit with agronomic issues (which are much more applied and not necessarily focused on ecological mechanisms, but rather on the effects on yield), in a way that’s often artificial and unsatisfactory. Don’t you think that produces rather rubbish stuff that’s not much use? Maybe I’ll try and write about that one of these days.
+
+[^1]: Yep, we as humans seem to be obsessed with protein right now, but the parasitoid literature is actually obsessed with carbs, for a change\^\^ (just give them the Snickers!)
+
+### Open Science/Meta-Science
+
+- Two main things here:
+
+  - Can we improve our practices so that our science is more open? To other scientists, but also to the people. Involved in [SORTEE](https://sortee.org/), mainly through collaborative projects, hopefully more in the future.
+
+  - How reliable is our whole field of research? Can we improve it (through open science, or other practices)? Even if not, to me, it's important to know what kind of 'knowledge' we are actually acquiring when doing ecological research - so that I can embrace all the limits when drawing conclusions. Curious about it, so I read a lot, but also working a little bit on if with [SORTEE](https://sortee.org/).

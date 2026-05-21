@@ -1,5 +1,13 @@
 ---
-title: "Blog"
+title: ""
 ---
 
-Yep maybe I'll do a blog! I'll also talk about art & culture, and other stuff, whatever I want to, and honestly it's OK if you're not interested there's already so many people telling their lives on the Internet ^^'
+## Blog
+
+- **21/05/2026.** Just saw this citation by Scott Peacor today on [Dynamic Ecology blog](https://dynamicecology.wordpress.com/2026/05/18/designing-a-statistic-project-to-show-that-we-ecologists-are-doing-something-wrong-is-not-my-idea-of-fun-interview-with-scott-peacor-on-meta-analysis-in-ecology/) today.
+
+  ::: {}
+  > I want my work to have a positive influence, not just have fun. This is not fun for me. I don’t really like statistics and I don’t like criticizing people. I don’t get a kick out of it. And so designing a statistic project to show that we ecologists are doing something wrong is not my idea of fun.
+  :::
+
+Found it striking (and inspirational)? Reminds me the [famous citation from Richard McElreath](https://elevanth.org/blog/2025/07/09/which-kind-of-science-reform/): 'Research is a job, not a hobby' (famous at least for me, haha).
