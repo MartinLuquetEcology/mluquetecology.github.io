@@ -3,7 +3,7 @@ project:
   output-dir: site
   
 website:
-  title: "Yaaay this is my website"
+  title: "Martin Luquet"
   site-url: https://martinluquetecology.github.io/
   
   navbar:
