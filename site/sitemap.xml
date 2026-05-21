@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://martinluquetecology.github.io/index.html</loc>
-    <lastmod>2026-05-21T09:06:56.713Z</lastmod>
+    <lastmod>2026-05-21T09:54:28.853Z</lastmod>
   </url>
   <url>
     <loc>https://martinluquetecology.github.io/content/projects.html</loc>
-    <lastmod>2026-05-21T09:51:13.255Z</lastmod>
+    <lastmod>2026-05-21T13:48:47.638Z</lastmod>
   </url>
   <url>
     <loc>https://martinluquetecology.github.io/content/about.html</loc>
@@ -19,5 +19,9 @@
   <url>
     <loc>https://martinluquetecology.github.io/content/resources.html</loc>
     <lastmod>2026-05-21T08:00:04.787Z</lastmod>
+  </url>
+  <url>
+    <loc>https://martinluquetecology.github.io/content/projects/insects.html</loc>
+    <lastmod>2026-05-21T13:22:12.296Z</lastmod>
   </url>
 </urlset>

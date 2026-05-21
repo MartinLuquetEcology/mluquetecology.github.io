@@ -1,0 +1,19 @@
+---
+title: "Untitled"
+---
+
+## Insect food in agroecosystems
+
+[![*Aphidius ervi* feeding on *Vicia faba* extrafloral nectary.](/img/artzai_aphidius.jpg)](https://www.instagram.com/artzaiphoto/)
+
+- So-called insect 'pests' are top-down regulated by other insects in agroecosystems - predators like ladybirds, and parasitoids. So in a way, they are our natural insecticides. That's cool and all, but as you guess, it's not that simple: we can't just count of them to secure our food production. Is there a way to boost/stabilise the populations of these natural regulators? Maybe we can try to design our agroecosystems to provide them with the adequate resources. For instance, parasitoids need carbs as fuel. So can we bring them additional sugar sources to help them 'perform'? Are they actually sugar-limited at all[^1]? Though it may seem like simple questions, it's not.
+
+- The literature is still not clear about this. And the studies we carried out with my colleagues from France, Spain and Chile also provide mitigated results - check below to know more. But they also highlight that these are actually difficult questions to answer - as is often the case in ecology, really.
+
+[^1]: Yep, we as humans seem to be obsessed with protein right now, but the parasitoid literature is actually obsessed with carbs, for a change\^\^ (just give them the Snickers!)
+
+## Publications
+
+## My thoughts on the topic today
+
+## People I worked with
