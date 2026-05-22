@@ -6,10 +6,11 @@ title: ""
 
 - I am a postdoc researcher working at the interface between behavioural and population ecology, mainly using quantitative methods. Currently, I work at the [Laboratory for Alpine Ecology](https://leca.osug.fr/), where I study the spatial and temporal responses of chamois to wolves.
 
-[![This is a chamois, by the way. The picture was taken by my colleague Tristan Mary: check his [Instagram page](https://www.instagram.com/t.mary_photo/), he's so cool.](/img/chamois_tristan.png){style="text-align: center" fig-alt="Chamois (Rupicapra rupicapra)" fig-align="center" width="322"}](https://www.instagram.com/t.mary_photo/)
+[![This is a chamois, by the way. The picture was taken by my colleague Tristan Mary: check his Instagram page (just click on the picutre), he's so cool.](/img/chamois_tristan_2.png){style="text-align: center" fig-alt="Chamois (Rupicapra rupicapra)" fig-align="center" width="322"}](https://www.instagram.com/t.mary_photo/)
 
 - I do many other stuff though. I also worked a lot (and still do a little bit) on insects in agroecosystems. May seem quite unrelated, but always connected to the interface between behaviour, population ecology, and predator-prey (or host-parasitoid) relationships. Also taught some stats (not was I very good at it) and ecology. I'm very interested in Open Science and try to invest myself a little bit in it - not as much as I'd like to.
 - I’ve also always wondered a lot about the status of the discipline and what it enables us to learn and do (in fact, that’s where my interest in open science comes from). I’ve read a lot on the subject and racked my brains over it quite a bit. Not that meta-science and the philosophy of science are really ‘hobbies’—I just can’t help myself, haha. As a result, my thoughts on the subject are rather jumbled and not really organised methodically—nevertheless, perhaps I’ll share them here.
+- Add a picture later.
 
 ## About this website
 

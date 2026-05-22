@@ -4,6 +4,8 @@ title: ""
 
 ## Wolves and ungulates
 
+![This is a chamois, by the way. The picture was taken by my colleague Tristan Mary: check his Instagram page (just click on the picutre), he's so cool.](/img/chamois_tristan.png){alt="This is a chamois, by the way. The picture was taken by my colleague Tristan Mary: check his [Instagram page](https://www.instagram.com/t.mary_photo/), he's so cool." fig-alt="Chamois (Rupicapra rupicapra)" fig-align="left" style="text-align: center" width="500"}
+
 - My current project at [LECA](https://leca.osug.fr/). How do wild mammals respond when extirpated predators are coming back? Well, maybe not that much. At least, not in most current European ecosystems, that are so shaped by humans. Focusing on two emblematic species: the chamois (one of our Alpine moutain "goats") and the gray wolf. Check below to know more.
 
 <!-- -->
